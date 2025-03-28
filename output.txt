@@ -1,0 +1,4 @@
+Postfix expression for '2+5': 
+Result: 5
+Postfix expression for '3+7': 
+Result: 7
