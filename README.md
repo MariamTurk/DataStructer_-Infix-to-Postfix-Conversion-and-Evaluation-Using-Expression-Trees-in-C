@@ -1,12 +1,6 @@
-# DataStructer_-Infix-to-Postfix-Conversion-and-Evaluation-Using-Expression-Trees-in-C
+
 # 📐 Infix to Postfix Conversion and Evaluation Using Expression Trees in C
 
-### 👤 Author: Mariam Turk  
-**Student ID:** 1211115  
-**Section:** 1  
-**Instructor:** Ahmad Abusnaina  
-
----
 
 ## 🧠 Overview
 
