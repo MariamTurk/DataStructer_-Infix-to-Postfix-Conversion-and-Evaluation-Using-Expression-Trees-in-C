@@ -101,30 +101,3 @@ calu_tree() – Recursively evaluates expression tree
 loadFromFile() – Loads expressions from input.txt
 
 fprintf() – Saves results to output.txt
-
-📦 Requirements
-Standard C Compiler (e.g. GCC)
-
-Text file with valid infix expressions
-
-📄 License
-This project is developed for educational purposes and can be freely reused or modified.
-
-🤝 Contributions
-Pull requests and issue reports are welcome!
-
-yaml
-Copy
-Edit
-
----
-
-✅ You can now paste this directly into your GitHub repository's `README.md` file. Let me know if you’d like me to help you create a GitHub logo/banner or help structure your repo!
-
-
-
-
-
-
-
-
